@@ -1,3 +1,6 @@
+
+## Sum of n natural numbers
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -14,3 +17,4 @@ int main() {
     cout << sum(num) << endl;
     return 0;
 }
+```
